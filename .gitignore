@@ -167,3 +167,5 @@ reports/logs/
 data/
 
 img/
+
+*.ps1
